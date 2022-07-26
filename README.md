@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+Steps:
+
+1. Run json-server into the "src" folder: npx json-server -p 3500 -w data/db.json.
+2. Run the React App: npm start.
+
+Views:
+
+![image](https://user-images.githubusercontent.com/62397949/180917413-899f085a-501a-4dda-b70f-641213dbddb0.png)
+
+![image](https://user-images.githubusercontent.com/62397949/180917452-42561506-0ce6-4b79-96f1-a0e9a6c23f7a.png)
+
+https://user-images.githubusercontent.com/62397949/180916031-3625d2a0-3974-4312-b1a7-ae9210ad5d7a.png
+
+https://user-images.githubusercontent.com/62397949/180916075-39dd103c-178e-4709-88d0-84c3f5526ab6.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
