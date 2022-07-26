@@ -39,19 +39,19 @@
     {
       "idUser": 1,
       "username": "Kevin",
-      "password": "Do20639754!",
+      "password": "12345678!",
       "id": 11
     },
     {
       "idUser": 1,
       "username": "Jose",
-      "password": "Do20639754!",
+      "password": "Kev12345678!",
       "id": 12
     },
     {
       "idUser": 1,
       "username": "Dave",
-      "password": "Kev123456!",
+      "password": "12345678!",
       "id": 13
     },
     {
@@ -59,60 +59,6 @@
       "title": "NEW POST 3",
       "datetime": "July 18, 2022 1:31:01 PM",
       "body": "NEW POST FOR UPDATE"
-    },
-    {
-      "idUser": 1,
-      "username": "Luis",
-      "password": "Def20639754!",
-      "id": 15
-    },
-    {
-      "idUser": 1,
-      "username": "Ricardo",
-      "password": "Kev10113522!",
-      "id": 16
-    },
-    {
-      "idUser": 1,
-      "username": "Alejandro",
-      "password": "Ale123456!",
-      "id": 17
-    },
-    {
-      "idUser": 1,
-      "username": "David",
-      "password": "Kev123456!",
-      "id": 18
-    },
-    {
-      "idUser": 1,
-      "username": "Cristian",
-      "password": "Def20639754!",
-      "id": 19
-    },
-    {
-      "idUser": 1,
-      "username": "Daniel",
-      "password": "DEf20639754!",
-      "id": 20
-    },
-    {
-      "idUser": 1,
-      "username": "David",
-      "password": "Def123456!",
-      "id": 21
-    },
-    {
-      "idUser": 1,
-      "username": "Dimas",
-      "password": "Def20639754!",
-      "id": 22
-    },
-    {
-      "idUser": 1,
-      "username": "Sofia",
-      "password": "Sofi123456!",
-      "id": 23
     },
     {
       "idUser": 24,
