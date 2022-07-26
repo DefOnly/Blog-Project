@@ -17,7 +17,7 @@ const PostPage = () => {
       await api.delete(`/posts/${id}`);
       const postList = posts.filter((post) => post.id !== id);
       setPosts(postList);
-      navigate("/");
+      navigate("/home");
     } catch (error) {
       console.log(`Error: ${error.message}`);
     }
