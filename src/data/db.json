@@ -25,46 +25,16 @@
       "body": "Many words updated in other language"
     },
     {
-      "id": 9,
-      "title": "Pruebas",
-      "datetime": "July 14, 2022 4:04:35 PM",
-      "body": "Pruebas de refactorización"
-    },
-    {
-      "id": 10,
-      "title": "Pruebas 2",
-      "datetime": "July 18, 2022 11:32:46 AM",
-      "body": "Pruebas de refactorización y modificaciones lorem"
-    },
-    {
       "idUser": 1,
       "username": "Kevin",
       "password": "12345678!",
       "id": 11
     },
     {
-      "idUser": 1,
-      "username": "Jose",
-      "password": "Kev12345678!",
-      "id": 12
-    },
-    {
-      "idUser": 1,
-      "username": "Dave",
-      "password": "12345678!",
-      "id": 13
-    },
-    {
-      "id": 14,
-      "title": "NEW POST 3",
-      "datetime": "July 18, 2022 1:31:01 PM",
-      "body": "NEW POST FOR UPDATE"
-    },
-    {
-      "idUser": 24,
-      "username": "Barbara",
-      "password": "Barb123456!",
-      "id": 24
+      "id": 25,
+      "title": "HOLA MUNDO 2",
+      "datetime": "July 25, 2022 11:17:10 PM",
+      "body": "Stray, el juego del gato, ya puede presumir de contar con CJ, de San Andreas, entre sus mininos controlables, pero el resultado no podría ser más perturbador. Tienes una captura al principio de la noticia, así que si te interesa controlar a semejante engendro por las calles, puedes acceder a Nexusmods y bajarlo directamente, pero si el propio CJ te da grimita, ten presente que los hermanitos de la primera escena del juego comparten modelo con el prota, pero no sus texturas felinas… Mira, aquí tienes un ejemplo para ilustrarlo:"
     }
   ]
 }
