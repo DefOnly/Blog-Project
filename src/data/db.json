@@ -1,0 +1,124 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My 2nd Post actualizado",
+      "datetime": "July 14, 2022 4:35:25 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa! UPDATE"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post for Kevin",
+      "datetime": "July 18, 2022 5:41:25 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa! bla bla bla"
+    },
+    {
+      "id": 7,
+      "title": "New Post about EDM 3",
+      "datetime": "July 14, 2022 3:45:20 PM",
+      "body": "Electronic Dance Music"
+    },
+    {
+      "id": 8,
+      "title": "Article Scientist 3",
+      "datetime": "July 18, 2022 1:37:13 PM",
+      "body": "Many words updated in other language"
+    },
+    {
+      "id": 9,
+      "title": "Pruebas",
+      "datetime": "July 14, 2022 4:04:35 PM",
+      "body": "Pruebas de refactorización"
+    },
+    {
+      "id": 10,
+      "title": "Pruebas 2",
+      "datetime": "July 18, 2022 11:32:46 AM",
+      "body": "Pruebas de refactorización y modificaciones lorem"
+    },
+    {
+      "idUser": 1,
+      "username": "Kevin",
+      "password": "Do20639754!",
+      "id": 11
+    },
+    {
+      "idUser": 1,
+      "username": "Jose",
+      "password": "Do20639754!",
+      "id": 12
+    },
+    {
+      "idUser": 1,
+      "username": "Dave",
+      "password": "Kev123456!",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "title": "NEW POST 3",
+      "datetime": "July 18, 2022 1:31:01 PM",
+      "body": "NEW POST FOR UPDATE"
+    },
+    {
+      "idUser": 1,
+      "username": "Luis",
+      "password": "Def20639754!",
+      "id": 15
+    },
+    {
+      "idUser": 1,
+      "username": "Ricardo",
+      "password": "Kev10113522!",
+      "id": 16
+    },
+    {
+      "idUser": 1,
+      "username": "Alejandro",
+      "password": "Ale123456!",
+      "id": 17
+    },
+    {
+      "idUser": 1,
+      "username": "David",
+      "password": "Kev123456!",
+      "id": 18
+    },
+    {
+      "idUser": 1,
+      "username": "Cristian",
+      "password": "Def20639754!",
+      "id": 19
+    },
+    {
+      "idUser": 1,
+      "username": "Daniel",
+      "password": "DEf20639754!",
+      "id": 20
+    },
+    {
+      "idUser": 1,
+      "username": "David",
+      "password": "Def123456!",
+      "id": 21
+    },
+    {
+      "idUser": 1,
+      "username": "Dimas",
+      "password": "Def20639754!",
+      "id": 22
+    },
+    {
+      "idUser": 1,
+      "username": "Sofia",
+      "password": "Sofi123456!",
+      "id": 23
+    },
+    {
+      "idUser": 24,
+      "username": "Barbara",
+      "password": "Barb123456!",
+      "id": 24
+    }
+  ]
+}
